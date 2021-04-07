@@ -1,0 +1,12 @@
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojAssemblyReference.cache
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emilk\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
